@@ -9,13 +9,27 @@
 # python-dotenv
 
 streamlit
-langchain
+
+# LangChain + Google GenAI (Correct Versions)
+langchain==0.2.12
+langchain-core==0.2.28
+langchain-google-genai==1.0.3
 langchain-community
-langchain-google-genai
-supabase
-PyPDF2
-faiss-cpu==1.12.0
+
+# Vector DB + Embeddings
 sentence-transformers
+faiss-cpu==1.12.0
+
+# Supabase
+supabase
+
+# PDF
+PyPDF2
+
+# Google AI (Gemini)
 google-generativeai
+
+# Other
 python-dotenv
+
 
