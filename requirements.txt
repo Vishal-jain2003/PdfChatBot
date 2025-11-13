@@ -1,9 +1,20 @@
+# langchain
+# langchain-community
+# streamlit
+# supabase
+# PyPDF2
+# faiss-cpu
+# sentence-transformers
+# google-generativeai
+# python-dotenv
+
+streamlit
 langchain
 langchain-community
-streamlit
+langchain-google-genai
 supabase
 PyPDF2
-faiss-cpu
+faiss-cpu==1.7.4
 sentence-transformers
 google-generativeai
 python-dotenv
